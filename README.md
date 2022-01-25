@@ -1,4 +1,4 @@
-I think this is where I put stuff about myself
+Nothing to say here really
 
 <!---
 GWStuart/GWStuart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
