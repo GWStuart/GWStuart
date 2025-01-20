@@ -1,7 +1,7 @@
-...
-Studying Math and Computer Science at UQ
+Studying a double degree in Mathematics and Computer Science at the University of Queensland.
+- Bachelor of Mathematics majoring in Statistics
+- Bachelor of Computer Science majoring in Machine Learning
 
-<!---
-GWStuart/GWStuart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+See a collection of my various programming projects over the years.
+
+Also see a link to my GitHub Pages site at: https://gwstuart.github.io/
