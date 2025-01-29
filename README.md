@@ -4,4 +4,6 @@ Studying a double degree in Mathematics and Computer Science at the University o
 
 See a collection of my various programming projects over the years.
 
-Also see a link to my GitHub Pages site at: https://gwstuart.github.io/
+I also have a GitHub Pages site.
+It is undergoing major development right now though as I am maigrating it to using Jekyll
+See the link to the current state of the website: https://gwstuart.github.io/
